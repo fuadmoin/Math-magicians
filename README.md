@@ -5,7 +5,7 @@
   <img src="./img/logo2.png" alt="logo" width="140"  height="auto" />
   <br/>
 
-  <h3><b>Title</b></h3>
+  <h3><b>Math magicians</b></h3>
 
 </div>
 
@@ -30,26 +30,20 @@
 - [🙏 Acknowledgements](#acknowledgements)
 - [📝 License](#license)
 
-# 📖 To Do List <a name="about-project"></a>
+# 📖 Math magicians <a name="about-project"></a>
 
-**To Do List** is a simple project to add tasks that we want to do and mark them as done when complete.
+**Math magicians** is a single page app that uses api for a basic calculator.
 
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
 
-- **HTML, CSS, and JavaScript**
+- **HTML, CSS, React, and JavaScript**
 
 ### Key Features <a name="key-features"></a>
 
 - **html styled with css and javascript**
-- **uses webpack**
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-## 🚀 Live Demo <a name="live-demo"> </a>
-
-> Check out the live demo for this project [here.](https://fuadmoin.github.io/TODOLIST/dist/)
+- **uses react**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -59,33 +53,47 @@ To get a local copy up and running, follow these steps.
 
 ### Prerequisites <a name="prerequisites"></a>
 
-Web Browser, Code Editor.
+In order to run this project you need:
+
+```sh
+A Computer
+Code editor (VSCode,Atom etc...)
+A browser (Chrome,Mozilla,Safari etc...)
+Version Control System (Git and Github)
+NodeJS (https://nodejs.org/en/)
+```
 
 ### Setup <a name="setup"></a>
 
 Clone this repository to your desired folder:
 
-Example commands:
-
 ```sh
   cd my-folder
-  git clone https://github.com/fuadmoin/TODOLIST.git
+  git https://github.com/fuadmoin/Math-magicians.git
 ```
 
 ### Install <a name="install"></a>
 
-VS CODE
+Install this project with:
+
+```sh
+npm install
+```
 
 ### Usage <a name="usage"></a>
 
 ```
   code .
-  open the index file with live server
+  npm start
 ```
 
 ### Run tests <a name="run-tests"></a>
 
-change the value of the index to see if the order of the task is being changed.
+To test, run the following command:
+
+```sh
+npm test
+```
 
 ### Deployment <a name="triangular_flag_on_post-deployment"></a>
 
@@ -105,15 +113,15 @@ You can deploy this project using Github-Page.
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **[users will be able to input tasks]**
-- [ ] **[tasks will be displayed based on their order]**
-- [ ] **[users will be able to delete tasks that are completed]**
+- [ ] **[HTML, CSS, and Javascript will be added]**
+- [ ] **[Api will be added]**
+- [ ] **[users will be able to use the calculator]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🤝 Contributing <a name="contributing"></a>
 
-Contributions, [issues](), and feature requests are welcome!
+Contributions, [issues](https://github.com/fuadmoin/Math-magicians/issues), and feature requests are welcome!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -125,7 +133,7 @@ If you like this project please consider starring it.
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank my coding partner [@Baqar]() for helping me on this project with me.
+We would like to thank [Microverse](www.microverse.com).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
