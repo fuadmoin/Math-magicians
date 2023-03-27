@@ -77,7 +77,6 @@ Clone this repository to your desired folder:
 Install this project with:
 
 ```sh
-cd math-magicians
 npm install
 ```
 
@@ -85,7 +84,7 @@ npm install
 
 ```
   code .
-  npm run dev
+  npm start
 ```
 
 ### Run tests <a name="run-tests"></a>
