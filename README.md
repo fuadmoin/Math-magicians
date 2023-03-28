@@ -133,7 +133,7 @@ If you like this project please consider starring it.
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank [Microverse](www.microverse.com).
+I would like to thank [Microverse](https://www.microverse.org/).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
