@@ -1,0 +1,30 @@
+.Calculator-Container {
+  display: grid;
+  grid-template-columns: auto auto auto auto;
+  padding-top: 50px;
+  padding-left: 200px;
+  width: 300px;
+}
+
+.signs {
+  border: 1px solid rgb(224, 221, 221);
+  padding: 10px;
+  font-size: 20px;
+  text-align: center;
+}
+
+.rose {
+  background-color: orange;
+}
+
+.result {
+  font-size: 35px;
+  text-align: right;
+  background-color: gray;
+  grid-column: 1 / span 4;
+  color: white;
+}
+
+.zero {
+  grid-column: 1 / span 3;
+}
