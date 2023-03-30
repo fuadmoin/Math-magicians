@@ -14,7 +14,7 @@ const Calculator = ({ data, result }) => {
       <section className="Calculator-Container">
         <div className="signs result">{result}</div>
         <button name="AC" type="button" onClick={handleClick} className="signs">AC</button>
-        <button name="+" type="button" onClick={handleClick} className="signs">+/-</button>
+        <button name="+/-" type="button" onClick={handleClick} className="signs">+/-</button>
         <button name="%" type="button" onClick={handleClick} className="signs ">%</button>
         <button name="÷" type="button" onClick={handleClick} className="signs rose">÷</button>
         <button name="7" type="button" onClick={handleClick} className="signs">7</button>
