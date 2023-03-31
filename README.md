@@ -44,6 +44,7 @@
 
 - **html styled with css and javascript**
 - **uses react**
+- **uses api**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
