@@ -23,7 +23,7 @@ const DisplayQuote = () => {
     fetchData();
   }, [setData, setIsLoading]);
 
-  if (hasError) return <div>Something went wrong!</div>;
+  if (hasError) return <div className="loading">Something went wrong!</div>;
 
   if (isLoading) return <div className="loading">Loading...</div>;
   return (
