@@ -51,7 +51,12 @@ const Display = () => {
   const { total, next, operation } = result;
 
   const output = `${total || operation || next ? `${total || ''} ${operation || ''} ${next || ''}` : 0}`;
-  return (<Calculator data={handleEvent} result={output} />);
+  return (
+    <div className="calculator-page">
+      <p>Let&apos;s do some math!</p>
+      <Calculator data={handleEvent} result={output} />
+    </div>
+  );
 };
 
 export default Display;
